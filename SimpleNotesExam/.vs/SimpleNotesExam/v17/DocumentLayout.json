@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nick_\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SimpleNotes Exam\\SimpleNotesExam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E8E3EE9-59BB-42C1-B932-0743ACCCA397}|SimpleNotesExam\\SimpleNotesExam.csproj|c:\\users\\nick_\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\simplenotes exam\\simplenotesexam\\simplenotesexam\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E8E3EE9-59BB-42C1-B932-0743ACCCA397}|SimpleNotesExam\\SimpleNotesExam.csproj|solutionrelative:simplenotesexam\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E8E3EE9-59BB-42C1-B932-0743ACCCA397}|SimpleNotesExam\\SimpleNotesExam.csproj|c:\\users\\nick_\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\simplenotes exam\\simplenotesexam\\simplenotesexam\\models\\notedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E8E3EE9-59BB-42C1-B932-0743ACCCA397}|SimpleNotesExam\\SimpleNotesExam.csproj|solutionrelative:simplenotesexam\\models\\notedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E8E3EE9-59BB-42C1-B932-0743ACCCA397}|SimpleNotesExam\\SimpleNotesExam.csproj|c:\\users\\nick_\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\simplenotes exam\\simplenotesexam\\simplenotesexam\\models\\apiresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E8E3EE9-59BB-42C1-B932-0743ACCCA397}|SimpleNotesExam\\SimpleNotesExam.csproj|solutionrelative:simplenotesexam\\models\\apiresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E8E3EE9-59BB-42C1-B932-0743ACCCA397}|SimpleNotesExam\\SimpleNotesExam.csproj|c:\\users\\nick_\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\simplenotes exam\\simplenotesexam\\simplenotesexam\\simplenotesexam.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4E8E3EE9-59BB-42C1-B932-0743ACCCA397}|SimpleNotesExam\\SimpleNotesExam.csproj|solutionrelative:simplenotesexam\\simplenotesexam.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NoteDTO.cs",
+              "DocumentMoniker": "C:\\Users\\nick_\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SimpleNotes Exam\\SimpleNotesExam\\SimpleNotesExam\\Models\\NoteDTO.cs",
+              "RelativeDocumentMoniker": "SimpleNotesExam\\Models\\NoteDTO.cs",
+              "ToolTip": "C:\\Users\\nick_\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SimpleNotes Exam\\SimpleNotesExam\\SimpleNotesExam\\Models\\NoteDTO.cs",
+              "RelativeToolTip": "SimpleNotesExam\\Models\\NoteDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T07:00:09.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "APIResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\nick_\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SimpleNotes Exam\\SimpleNotesExam\\SimpleNotesExam\\Models\\APIResponseDTO.cs",
+              "RelativeDocumentMoniker": "SimpleNotesExam\\Models\\APIResponseDTO.cs",
+              "ToolTip": "C:\\Users\\nick_\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SimpleNotes Exam\\SimpleNotesExam\\SimpleNotesExam\\Models\\APIResponseDTO.cs",
+              "RelativeToolTip": "SimpleNotesExam\\Models\\APIResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T06:59:46.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\nick_\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SimpleNotes Exam\\SimpleNotesExam\\SimpleNotesExam\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "SimpleNotesExam\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\nick_\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SimpleNotes Exam\\SimpleNotesExam\\SimpleNotesExam\\UnitTest1.cs",
+              "RelativeToolTip": "SimpleNotesExam\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T06:16:25.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SimpleNotesExam.csproj",
+              "DocumentMoniker": "C:\\Users\\nick_\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SimpleNotes Exam\\SimpleNotesExam\\SimpleNotesExam\\SimpleNotesExam.csproj",
+              "RelativeDocumentMoniker": "SimpleNotesExam\\SimpleNotesExam.csproj",
+              "ToolTip": "C:\\Users\\nick_\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SimpleNotes Exam\\SimpleNotesExam\\SimpleNotesExam\\SimpleNotesExam.csproj",
+              "RelativeToolTip": "SimpleNotesExam\\SimpleNotesExam.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-23T06:59:26.719Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 354,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
