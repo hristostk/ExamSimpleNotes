@@ -3,9 +3,9 @@ name: .NET
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "hristostk" ]
   pull_request:
-    branches: [ "main" ]
+    branches: [ "hristostk" ]
 
 jobs:
   build:
