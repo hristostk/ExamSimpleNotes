@@ -17,8 +17,8 @@ jobs:
       with:
         dotnet-version: 8.0.x
     - name: Restore the packages
-      run: dotnet restore SimpleNotesExamVS
+      run: dotnet restore SimpleNotesExam/SimpleNotesExam
     - name: Build the solution
-      run: dotnet build SimpleNotesExamVS --no-restore
+      run: dotnet build SimpleNotesExam/SimpleNotesExam --no-restore
     - name: Run all Test
-      run: dotnet test SimpleNotesExamVS --no-build --verbosity normal
+      run: dotnet test SimpleNotesExam/SimpleNotesExam --no-build --verbosity normal
